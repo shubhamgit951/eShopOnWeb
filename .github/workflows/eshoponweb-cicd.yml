@@ -8,8 +8,8 @@ env:
   RESOURCE-GROUP: rg-eshoponweb-github
   LOCATION: westeurope
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: 992fe4cd-e4d9-4eab-9b5f-a6eb24758946
-  WEBAPP-NAME: eshoponweb-webapp-gitact
+  SUBSCRIPTION-ID: 1cf39791-1a69-4f6f-85c7-54ffeabe3928
+  WEBAPP-NAME: eshoponweb-webapp-Shubham
 
 
 jobs:
